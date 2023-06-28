@@ -1,3 +1,4 @@
+[![CI with GitHub Actions using Maven and JUnit | © 2022 by hung.nghia](https://github.com/tiptopdragon0406/math-util-mvn/actions/workflows/Mathutility.yml/badge.svg)](https://github.com/tiptopdragon0406/math-util-mvn/actions/workflows/Mathutility.yml)
 # Welcome to Math Utility Repository
 
 ## You will find in this Repository Math functions like PI or Calculate
